@@ -1,0 +1,9 @@
+{
+  "name": "jscon-intro",
+  "version": "1.0.0",
+  "description": "Helper for creating intro in console modules",
+  "main": "index.js",
+  "repository": "https://github.com/tbajorek/jscon-intro",
+  "author": "Tomasz Bajorek <tbajorek3@gmail.com>",
+  "license": "MIT"
+}
